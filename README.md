@@ -1,5 +1,5 @@
 # Foundation Icons Hand
-Icons used in the Apple TV+ series Foundation, encountered in signage and on screens.
+Icons used in the Apple TV+ series Foundation, encountered in signage and on screens.  Released with the SIL Open Font License (OFL).
 
 Here's an example:
 
